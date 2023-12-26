@@ -1,2 +1,2 @@
 # Computaional-Physics
-This contains codes for various Numerical Methods used in Physics like Newton Raphson, Monte-Carlo Simulations etc.
+WThis repository is for numerical methods applied in physics! This collection contains various programs and codes implementing essential numerical techniques tailored for solving physics problems. From simulating protein folding to employing Monte Carlo methods and differential equation solvers like Newton-Raphson and RK-4, this repository aims to provide a comprehensive toolkit for tackling diverse challenges encountered in the realm of physics through computational approaches.
